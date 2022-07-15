@@ -1,0 +1,2 @@
+rootProject.name = "Hava_Mock"
+include ':app'
